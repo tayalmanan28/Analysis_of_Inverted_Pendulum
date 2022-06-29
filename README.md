@@ -1,8 +1,5 @@
 # Inverted Pendulum - Control Systems
 
-I am writing a simple to understand series on controlling real physical systems.
-You may access it [here](https://kusemanohar.wordpress.com/tag/control-systems/).
-
 ### Inverted Pendulum only System
 ```
 python free_fall_pendulum.py
